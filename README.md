@@ -1,4 +1,3 @@
-# ai-ml-practice-project
 # Deep Learning Notebooks
 
 ## About
