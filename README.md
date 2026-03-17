@@ -12,7 +12,7 @@ This repository contains my step-by-step learning and practice notebooks for Dee
 - Long Short-Term Memory (LSTM)
 - Gated Recurrent Unit (GRU)
 - Autoencoders
-- 
+  
 ## Tools & Libraries
 - Python
 - NumPy
